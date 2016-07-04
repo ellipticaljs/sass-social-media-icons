@@ -1,12 +1,12 @@
 {
-  "name": "sass-template",
-  "description": "Sass Flexbox",
+  "name": "sass-social-media-icons",
+  "description": "Sass social media icons",
   "version": "1.0.0",
   "author": "S. Francis",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ellipticaljs/sass-template.git"
+    "url": "https://github.com/ellipticaljs/sass-social-media-icons.git"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
