@@ -46,3 +46,10 @@
     content: "\e906";
 }
 
+.icon-social-media-instagram:before {
+    content: "\e907";
+}
+.icon-social-media-pinterest:before {
+    content: "\e908";
+}
+
